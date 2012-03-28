@@ -1,0 +1,3 @@
+contextSource.urls = ldaps://localhost
+contextSource.userDn=cn=admin
+contextSource.password=<password>
