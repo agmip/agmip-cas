@@ -43,8 +43,8 @@ http://www.positioniseverything.net/easyclearing.html and http://www.ejeliot.com
 
 
 /* HEADER --------------------------------- */
-#header {position:relative; top:0; left:0; padding-top:52px; background:#fff url(../images/logo_tiny.png) no-repeat scroll 25px 10px;}
-    #header h1#app-name {clear:both; padding:0 0 0 25px; background:#73cea3; color:#000; font:normal 400 2.8em/2.5em Georgia,"Times New Roman", serif;} /* d21033 */
+#header {position:relative; top:0; left:0; padding-top:32px; background:#fff url(../images/logo_60px.png) no-repeat scroll 25px 10px;}
+    #header h1#app-name {clear:both; padding:0 0 0 15px; background:#73cea3; color:#000; font:normal 400 2.8em/2.5em Georgia,"Times New Roman", serif;} /* d21033 */
 
 /* CONTENT --------------------------------- */
 #content {clear:both; padding:1px 0; margin:0 25px 2em;}

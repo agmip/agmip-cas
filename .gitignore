@@ -2,3 +2,4 @@ target/*
 *.swp
 *.tmp
 *.properties
+.DS_Store
